@@ -70,7 +70,7 @@ const typeConfig = {
   },
   16: {
     input: {
-      models: ['glm-4', 'glm-4v', 'glm-3-turbo', 'chatglm_turbo', 'chatglm_pro', 'chatglm_std', 'chatglm_lite']
+      models: ['glm-4-long', 'glm-4', 'glm-4v', 'glm-3-turbo', 'chatglm_turbo', 'chatglm_pro', 'chatglm_std', 'chatglm_lite']
     },
     modelGroup: 'zhipu'
   },
