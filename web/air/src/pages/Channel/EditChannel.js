@@ -93,7 +93,7 @@ const EditChannel = (props) => {
                     localModels = ['moonshot-v1-8k', 'moonshot-v1-32k', 'moonshot-v1-128k'];
                     break;
                 case 26:
-                    localModels = ['glm-4-long', 'glm-4', 'glm-4v', 'glm-3-turbo'];
+                    localModels = ['glm-4-plus', 'glm-4-flash', 'glm-4-long', 'glm-4-0520', 'glm-4-airx', 'glm-4-air', 'glm-4', 'glm-4v', 'glm-3-turbo'];
                     break;
                 case 2:
                     localModels = ['mj_imagine', 'mj_variation', 'mj_reroll', 'mj_blend', 'mj_upscale', 'mj_describe'];

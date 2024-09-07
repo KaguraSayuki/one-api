@@ -104,9 +104,14 @@ var ModelRatio = map[string]float64{
 	"gemini-1.5-pro":   1,
 	"aqa":              1,
 	// https://open.bigmodel.cn/pricing
+	"glm-4-plus":    0.05  * RMB, 
+	"glm-4-flash":   0,
 	"glm-4-long":    0.001 * RMB,
-	"glm-4":         0.1 * RMB,
-	"glm-4v":        0.1 * RMB,
+	"glm-4-0520":    0.1   * RMB, 
+	"glm-4-airx":    0.01  * RMB, 
+	"glm-4-air":     0.001 * RMB, 
+	"glm-4":         0.1   * RMB,
+	"glm-4v":        0.1   * RMB,
 	"glm-3-turbo":   0.005 * RMB,
 	"embedding-2":   0.0005 * RMB,
 	"chatglm_turbo": 0.3572, // ￥0.005 / 1k tokens
